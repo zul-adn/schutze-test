@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/schutze-test/static/css/main.34be81fc.css",
-    "main.js": "/schutze-test/static/js/main.dc3e6b98.js",
+    "main.js": "/schutze-test/static/js/main.c94ece6c.js",
     "static/js/787.e39e853b.chunk.js": "/schutze-test/static/js/787.e39e853b.chunk.js",
     "static/media/waves.png": "/schutze-test/static/media/waves.4a8897c000135ebbbd81.png",
     "static/media/logo.svg": "/schutze-test/static/media/logo.5bd666ee5cc2ae0f0237863260316aeb.svg",
     "index.html": "/schutze-test/index.html",
     "main.34be81fc.css.map": "/schutze-test/static/css/main.34be81fc.css.map",
-    "main.dc3e6b98.js.map": "/schutze-test/static/js/main.dc3e6b98.js.map",
+    "main.c94ece6c.js.map": "/schutze-test/static/js/main.c94ece6c.js.map",
     "787.e39e853b.chunk.js.map": "/schutze-test/static/js/787.e39e853b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34be81fc.css",
-    "static/js/main.dc3e6b98.js"
+    "static/js/main.c94ece6c.js"
   ]
 }
